@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Languages_ca
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ca
+  m_SharedData: {fileID: 11400000, guid: 78a105c0ccc408e458687642614f8d4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7581171712
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488328101888
+    m_Localized: Opcions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709913182208
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1389759528960
+    m_Localized: Volum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620731461632
+    m_Localized: Brillantor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895965884416
+    m_Localized: Llengua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2299743141888
+    m_Localized: Vermell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2466269593600
+    m_Localized: Blau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2694007717888
+    m_Localized: "La pe\xE7a seleccionada passar\xE0 a tenir les habilitats de moviment
+      de la reina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3158153592832
+    m_Localized: "La pe\xE7a seleccionada tindr\xE0 dos torns seguits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4665796165632
+    m_Localized: "La pe\xE7a seleccionada podr\xE0 atacar a qualsevol pe\xE7a del
+      seu voltant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5327439233024
+    m_Localized: Comprar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6580382695424
+    m_Localized: desafia als teus amics i enemics a convertir-se en el gran mestre
+      definitiu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16461231783936
+    m_Localized: "\xC9s el guanyador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136945474433024
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
